@@ -4,17 +4,7 @@ This project develops a credit score prediction model for Home Credit. The model
 
 By leveraging machine learning, this project provides insights into customer creditworthiness and improves the decision-making process for loan approvals.
 
-🔧 Tech Stack
-
-Python
-
-Pandas, NumPy
-
-Scikit-learn
-
-Matplotlib, Seaborn
-
-XGBoost / LightGBM (for modeling)
+Tech Stack: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost / LightGBM (for modeling)
 
 Objectives:
 
